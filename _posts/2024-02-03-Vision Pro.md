@@ -1,9 +1,10 @@
 ---
-layout: article
+layout: daily
 title:  "Vision Pro"
 date:   2024-02-03 10:00:00 +0800
 ---
 
+## Vision Pro
 
 鋼鐵人電影中可以在空中操作各種投影或介面那些令人瞠目結舌的高科技，目前市面上可以做出類似效果常見的產品就ARVR設備。最近蘋果Vision Pro已經有很多人開箱，並沒有太多革命性的突破，不過是比oculus quest好而也價格貴上許多的等級的AR設備。
 

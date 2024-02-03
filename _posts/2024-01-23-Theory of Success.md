@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: daily
 title:  "科學化的成功學"
 date:   2024-01-23 10:00:00 +0800
 tags: [Resilience, Neuroscience]

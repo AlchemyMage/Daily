@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: daily
 title:  "AI時代的典範轉移"
 date:   2024-01-22 10:00:00 +0800
 tags: [Paradigm Shift]
