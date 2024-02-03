@@ -22,7 +22,6 @@ title: 鍊金Mage
 email: alchemy@posetmage.com
 description: >- # this means to ignore newlines until "baseurl:"
     大腦是一個賢者之石，充滿無限可能
-
 url: "https://alchemy.posetmage.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/Daily" # the subpath of your site, e.g. /blog
 
@@ -41,10 +40,6 @@ social:
     url: https://medium.com/@alchemymage
   - platform: threads
     url: https://threads.net/alchemy.mage
-
-includes_dir: _shared/_includes
-layouts_dir: _shared/_layouts
-site_favicon: favicon.ico
 
 # Build settings
 remote_theme: jekyll/minima
